@@ -1,6 +1,6 @@
-# 📌 PIX Key Generator - bytebank_GeradorChavePix
+# 📌 PIX Key Generator - bytebank_PixRandomKeyGenerator
 
-[![NuGet](https://img.shields.io/nuget/v/bytebank_GeradorChavePix.svg?style=flat-square)](https://www.nuget.org/packages/bytebank_GeradorChavePix/)
+[![NuGet](https://img.shields.io/nuget/v/bytebank_GeradorChavePix.svg?style=flat-square)](https://www.nuget.org/packages/bytebank_PixRandomKeyGenerator/)
 
 **A simple and efficient package for generating random PIX keys in GUID format, designed for .NET projects.**
 
@@ -16,11 +16,11 @@
 **Install via NuGet Package Manager:**
 
 ```bash
-Install-Package bytebank_GeradorChavePix
+Install-Package bytebank_PixRandomKeyGenerator
 ```
 **Or via .NET CLI:**
 ```bash
-dotnet add package bytebank_GeradorChavePix
+dotnet add package bytebank_PixRandomKeyGenerator
 ```
 ## 🚀 How to Use
 ```csharp
